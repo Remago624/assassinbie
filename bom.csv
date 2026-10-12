@@ -1,10 +1,10 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"B1, G1, R2";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";3;"220";;;
-2;"BZ1";"Buzzer_12x9.5RM7.6";1;"Buzzer";;;
-3;"D1";"LED_RGB_5050-6";1;"LED_RGB";;;
-4;"J1";"Display_128x64_096_I2C";1;"Conn_01x04_Pin";;;
-5;"J2";"PinHeader_1x08_P2.54mm_Vertical";1;"Conn_01x08_Pin";;;
-6;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"10k";;;
-7;"SW1, SW2";"SW_Cherry_MX_1.00u_PCB";2;"SW_Push";;;
-8;"U1";"XIAO-ESP32-C6-DIP";1;"XIAO-ESP32-C3-SMD";;;
-9;"U2";"Aosong_DHT11_5.5x12.0_P2.54mm";1;"DHT11";;;
+Designator,Value,Footprint,Quantity,MPN;Designator;Footprint;Quantity;Designation;Supplier and ref
+B1, G1, R2,220,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,;B1, G1, R2;R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;3;220;
+BZ1,Buzzer,Buzzer_12x9.5RM7.6,1,;BZ1;Buzzer_12x9.5RM7.6;1;Buzzer;
+D1,LED_RGB,LED_RGB_5050-6,1,;D1;LED_RGB_5050-6;1;LED_RGB;
+J1,Conn_01x04_Pin,Display_128x64_096_I2C,1,;J1;Display_128x64_096_I2C;1;Conn_01x04_Pin;
+J2,Conn_01x08_Pin,PinHeader_1x08_P2.54mm_Vertical,1,;J2;PinHeader_1x08_P2.54mm_Vertical;1;Conn_01x08_Pin;
+R1,10k,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,;R1;R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal;1;10k;
+SW1, SW2,SW_Push,SW_Cherry_MX_1.00u_PCB,2,;SW1, SW2;SW_Cherry_MX_1.00u_PCB;2;SW_Push;
+U1,XIAO-ESP32-C3-SMD,XIAO-ESP32-C6-DIP,1,;U1;XIAO-ESP32-C6-DIP;1;XIAO-ESP32-C3-SMD;
+U2,DHT11,Aosong_DHT11_5.5x12.0_P2.54mm,1,;U2;Aosong_DHT11_5.5x12.0_P2.54mm;1;DHT11;
