@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Resistor 220 ohm 20 Pieces](https://amazon.eg) | — | 3 | $60.00 | $180.00 | [Amazon](https://amazon.eg) |
 | [Magnetic Buzzer 5V 12mm 5pcs](https://www.amazon.eg/-/en/Magnetic-Buzzer-5V-12mm-5pcs/dp/B0CZ7NJQGK) | — | 1 | $120.75 | $120.75 | [Amazon](https://www.amazon.eg/-/en/Magnetic-Buzzer-5V-12mm-5pcs/dp/B0CZ7NJQGK) |
 | [5050 RGB LED Components](https://www.amazon.eg/-/en/5050-Rgb-Strip-Light-Remote/dp/B08YNMQVPS) | — | 1 | $204.98 | $204.98 | [Amazon](https://www.amazon.eg/-/en/5050-Rgb-Strip-Light-Remote/dp/B08YNMQVPS) |
 | [AZDelivery 0.96 Inch OLED Display I2C](https://www.amazon.eg/-/en/AZDelivery-0-96-Inch-Display-Book/dp/B01L9GC470) | — | 1 | $471.56 | $471.56 | [Amazon](https://www.amazon.eg/-/en/AZDelivery-0-96-Inch-Display-Book/dp/B01L9GC470) |
@@ -21,8 +20,8 @@
 | [Push Button Key Switch Cherry MX](https://amazon.eg) | — | 2 | $150.00 | $300.00 | [Amazon](https://amazon.eg) |
 | [Seeed Studio XIAO ESP32-C3](https://www.amazon.eg/-/en/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX) | — | 1 | $450.00 | $450.00 | [Amazon](https://www.amazon.eg/-/en/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX) |
 | [DHT11 Temperature Humidity Sensor](https://www.amazon.eg/???????-??????-37-????-???????/dp/B091J7MV9T) | — | 1 | $95.00 | $95.00 | [Amazon](https://www.amazon.eg/???????-??????-37-????-???????/dp/B091J7MV9T) |
-| **Parts subtotal** | — | — | — | **$1912.29** | — |
+| **Parts subtotal** | — | — | — | **$1732.29** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$1912.29** | — |
+| **Total** | — | — | — | **$1732.29** | — |
 
-**$1882.29 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$1702.29 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
