@@ -21,7 +21,7 @@
 | [Seeed Studio XIAO ESP32-C3](https://www.amazon.eg/-/en/ESP32-C3-Mini-Development-Board-Bluetooth/dp/B0FVFYKP6P/ref=sr_1_1?sr=8-1) | the main microcontroller | 1 | $7.00 | $7.00 | [Amazon](https://www.amazon.eg/-/en/ESP32-C3-Mini-Development-Board-Bluetooth/dp/B0FVFYKP6P/ref=sr_1_1?sr=8-1) |
 | [DHT11 Temperature Humidity Sensor](https://www.amazon.eg/-/en/Robodo-SEN50-Relative-Humidity-Temperature/dp/B07B8SSM33/ref=sr_1_4?sr=8-4) | sensing the temperature and humidity. I have one so I put the price to 0.1 | 1 | $0.10 | $0.10 | [Amazon](https://www.amazon.eg/-/en/Robodo-SEN50-Relative-Humidity-Temperature/dp/B07B8SSM33/ref=sr_1_4?sr=8-4) |
 | **Parts subtotal** | — | — | — | **$111.50** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$121.50** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$111.50** | — |
 
-**$91.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$81.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
