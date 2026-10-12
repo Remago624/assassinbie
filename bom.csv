@@ -1,10 +1,10 @@
-Part,Qty,Unit,Vendor
-220 Ohm Resistor,3,pcs,
-12mm Magnetic Buzzer,1,pcs,
-5050 RGB LED,1,pcs,
-0.96 inch I2C OLED Display,1,pcs,
-2.54mm Pitch 1x08 Male Pin Header,1,pcs,
-10k Ohm Resistor,1,pcs,
-Push Button Key Switch (Cherry MX),2,pcs,
-Seeed Studio XIAO ESP32-C3,1,pcs,
-DHT11 Temperature Humidity Sensor,1,pcs,
+Part,Qty,Unit,Price,Link
+Resistor 220 ohm 20 Pieces,3,pcs,60.00,https://amazon.eg
+Magnetic Buzzer 5V 12mm 5pcs,1,pcs,120.75,https://www.amazon.eg/-/en/Magnetic-Buzzer-5V-12mm-5pcs/dp/B0CZ7NJQGK
+5050 RGB LED Components,1,pcs,204.98,https://www.amazon.eg/-/en/5050-Rgb-Strip-Light-Remote/dp/B08YNMQVPS
+AZDelivery 0.96 Inch OLED Display I2C,1,pcs,471.56,https://www.amazon.eg/-/en/AZDelivery-0-96-Inch-Display-Book/dp/B01L9GC470
+2.54mm Pitch 1x08 Male Pin Header,1,pcs,40.00,https://amazon.eg
+Resistor 10k ohm Pack,1,pcs,50.00,https://amazon.eg
+Push Button Key Switch Cherry MX,2,pcs,150.00,https://amazon.eg
+Seeed Studio XIAO ESP32-C3,1,pcs,450.00,https://www.amazon.eg/-/en/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX
+DHT11 Temperature Humidity Sensor,1,pcs,95.00,https://www.amazon.eg/???????-??????-37-????-???????/dp/B091J7MV9T
