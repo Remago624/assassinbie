@@ -16,11 +16,8 @@
 | [Magnetic Buzzer 5V 12mm 5pcs](https://www.amazon.eg/-/en/Magnetic-Buzzer-5V-12mm-5pcs/dp/B0CZ7NJQGK) | — | 1 | $120.75 | $120.75 | [Amazon](https://www.amazon.eg/-/en/Magnetic-Buzzer-5V-12mm-5pcs/dp/B0CZ7NJQGK) |
 | [5050 RGB LED Components](https://www.amazon.eg/-/en/5050-Rgb-Strip-Light-Remote/dp/B08YNMQVPS) | — | 1 | $204.98 | $204.98 | [Amazon](https://www.amazon.eg/-/en/5050-Rgb-Strip-Light-Remote/dp/B08YNMQVPS) |
 | [AZDelivery 0.96 Inch OLED Display I2C](https://www.amazon.eg/-/en/AZDelivery-0-96-Inch-Display-Book/dp/B01L9GC470) | — | 1 | $471.56 | $471.56 | [Amazon](https://www.amazon.eg/-/en/AZDelivery-0-96-Inch-Display-Book/dp/B01L9GC470) |
-| [2.54mm Pitch 1x08 Male Pin Header](https://amazon.eg) | — | 1 | $40.00 | $40.00 | [Amazon](https://amazon.eg) |
-| [Resistor 10k ohm Pack](https://amazon.eg) | — | 1 | $50.00 | $50.00 | [Amazon](https://amazon.eg) |
-| [Push Button Key Switch Cherry MX](https://amazon.eg) | — | 2 | $150.00 | $300.00 | [Amazon](https://amazon.eg) |
-| **Parts subtotal** | — | — | — | **$1367.29** | — |
+| **Parts subtotal** | — | — | — | **$977.29** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$1367.29** | — |
+| **Total** | — | — | — | **$977.29** | — |
 
-**$1337.29 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$947.29 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
