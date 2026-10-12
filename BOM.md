@@ -19,10 +19,8 @@
 | [2.54mm Pitch 1x08 Male Pin Header](https://amazon.eg) | — | 1 | $40.00 | $40.00 | [Amazon](https://amazon.eg) |
 | [Resistor 10k ohm Pack](https://amazon.eg) | — | 1 | $50.00 | $50.00 | [Amazon](https://amazon.eg) |
 | [Push Button Key Switch Cherry MX](https://amazon.eg) | — | 2 | $150.00 | $300.00 | [Amazon](https://amazon.eg) |
-| [Seeed Studio XIAO ESP32-C3](https://www.amazon.eg/-/en/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX) | — | 1 | $450.00 | $450.00 | [Amazon](https://www.amazon.eg/-/en/HackyPi-Ultimate-Professionals-Programmable-Educational/dp/B0C3LRLPNX) |
-| [DHT11 Temperature Humidity Sensor](https://www.amazon.eg/???????-??????-37-????-???????/dp/B091J7MV9T) | — | 1 | $95.00 | $95.00 | [Amazon](https://www.amazon.eg/???????-??????-37-????-???????/dp/B091J7MV9T) |
-| **Parts subtotal** | — | — | — | **$1912.29** | — |
+| **Parts subtotal** | — | — | — | **$1367.29** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$1912.29** | — |
+| **Total** | — | — | — | **$1367.29** | — |
 
-**$1882.29 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$1337.29 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
