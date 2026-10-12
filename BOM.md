@@ -12,12 +12,11 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Resistor 220 ohm 20 Pieces](https://amazon.eg) | — | 3 | $60.00 | $180.00 | [Amazon](https://amazon.eg) |
 | [Magnetic Buzzer 5V 12mm 5pcs](https://www.amazon.eg/-/en/Magnetic-Buzzer-5V-12mm-5pcs/dp/B0CZ7NJQGK) | — | 1 | $120.75 | $120.75 | [Amazon](https://www.amazon.eg/-/en/Magnetic-Buzzer-5V-12mm-5pcs/dp/B0CZ7NJQGK) |
 | [5050 RGB LED Components](https://www.amazon.eg/-/en/5050-Rgb-Strip-Light-Remote/dp/B08YNMQVPS) | — | 1 | $204.98 | $204.98 | [Amazon](https://www.amazon.eg/-/en/5050-Rgb-Strip-Light-Remote/dp/B08YNMQVPS) |
 | [AZDelivery 0.96 Inch OLED Display I2C](https://www.amazon.eg/-/en/AZDelivery-0-96-Inch-Display-Book/dp/B01L9GC470) | — | 1 | $471.56 | $471.56 | [Amazon](https://www.amazon.eg/-/en/AZDelivery-0-96-Inch-Display-Book/dp/B01L9GC470) |
-| **Parts subtotal** | — | — | — | **$977.29** | — |
+| **Parts subtotal** | — | — | — | **$797.29** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$977.29** | — |
+| **Total** | — | — | — | **$797.29** | — |
 
-**$947.29 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$767.29 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
